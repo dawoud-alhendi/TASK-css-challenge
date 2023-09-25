@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Charm:wght@400;700&family=Roboto:ital,wght@0,300;0,700;1,400&display=swap");
+
+body {
+  background-color: rgb(44, 2, 81);
+}
+
+h1 {
+  font-family: "Charm", cursive;
+  text-align: center;
+  color: aliceblue;
+}
+.img {
+  text-align: center;
+  margin-top: 30px;
+}
+p {
+  text-align: center;
+  color: aliceblue;
+}
